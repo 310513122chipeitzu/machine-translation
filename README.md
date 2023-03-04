@@ -1,5 +1,5 @@
 # machine-translation
-# machine-translation-310513122chipeitzu
+
 machine-translation-310513122chipeitzu created by GitHub Classroom
 
 ## 使用Hugging Face已經訓練好的 NLP MODEL
